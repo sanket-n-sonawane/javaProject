@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class JavaTut_1 {
+public class JavaTut_1 {
+
 }
